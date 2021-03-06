@@ -68,6 +68,13 @@ header {
     animation: ring-a-bell 1s;
 }
 
+.header-menu-list li .link.begin#bell-button-in-header img {
+    height: 8vh;
+    width: 8vh;
+
+    animation: ring-a-bell 1s;
+}
+
 @keyframes ring-a-bell {
     from {
         transform: rotate(0deg);
