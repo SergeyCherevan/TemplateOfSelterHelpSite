@@ -28,6 +28,7 @@ header {
 
 .header-menu-list {
 	display: inline-flex;
+	align-items: center;
 	list-style: none;
 
 	margin-right: 1vw;
