@@ -17,7 +17,7 @@ header {
 #logotype {
     display: inline-flex;
     
-    margin: 2vw;
+    margin: 4vw;
 }
 
 /*				manu and nav				*/
@@ -31,7 +31,7 @@ header {
 	align-items: center;
 	list-style: none;
 
-	margin-right: 1vw;
+	margin-right: 2vw;
 }
 
 .header-menu-list li .link {
@@ -105,7 +105,7 @@ header {
     
     text-shadow: white .1vw .125vh 0;
 
-    padding: 1% 5%;
+    padding: 0% 5%;
 
 	margin: 0 2.5vw 0 0;
 
